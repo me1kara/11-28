@@ -1,8 +1,6 @@
 package com.lec.ex05_field;
 
-public class Tire {
-	private void sysou() {
-		// TODO Auto-generated method stub
-		System.out.println("asddassfd");
-	}
+public interface Tire {
+
+	void roll();
 }
